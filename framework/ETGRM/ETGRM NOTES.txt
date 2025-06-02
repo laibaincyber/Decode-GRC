@@ -1,3 +1,92 @@
-ETGRM( Enterprise Technology Governance & Risk Management Framework for Financial Institution) Notes BY State Bank oF Pakistan 
+ETGRM( Enterprise Technology Governance & Risk Management Framework for Financial Institution) Notes BY State Bank of Pakistan 
 
 Main Goal:
+Provides regulatory guidance for managing risks related to the use of technology in financial institutions.
+
+Applies to
+- commercial banks
+-Islamic banks
+-DFIs
+- microfinance banks.
+
+6 Theme 
+
+1-  IT Governance
+-Board of Directors (BoD) must approve IT and Digital strategies.
+
+-Align IT with business goals.
+
+-Form an IT Steering Committee and Board IT Committee.
+
+-Clear roles for BoD, Senior Management, CIO, and CISO.
+
+-Regularly review and update tech policies (every 3 years).
+
+2- Information Security
+-Must have a Cyber Security Framework.
+
+-Identify & classify critical IT assets.
+
+-Perform risk assessments and mitigation.
+
+-Implement:
+
+---Access control
+
+----Encryption
+
+----Physical & network security
+
+----Remote access controls
+
+-Develop a Cyber Security Action Plan and perform regular security testing (VA, Penetration, etc.).
+
+-Report incidents to SBP within 48 hours.
+
+ 3. IT Services & Operations
+-Create Preventive Maintenance Plans (PMP).
+
+-Manage incidents and problems efficiently.
+
+-Implement patch management and capacity planning.
+
+-Set up data centers and help desks with KPIs.
+
+4. Acquisition & Implementation
+-Use a secure System Development Life Cycle (SDLC).
+
+-Evaluate vendors properly before outsourcing or purchasing.
+
+-Cloud services only allowed for non-core activities (data must remain in Pakistan).
+
+-Perform User Acceptance Testing (UAT) before deployment.
+
+-Maintain proper system documentation and change management processes.
+
+5-  Business Continuity & Disaster Recovery
+-Develop a BCP (Business Continuity Plan) based on risk and impact analysis.
+
+-Define RTO/RPO for critical systems.
+
+-Conduct BCP/DR drills at least annually.
+
+-Maintain standby hardware and DR site.
+
+ 6. IT Audit
+-Establish an IT Audit Program approved by the BoD or Audit Committee.
+
+Cover areas like:
+
+---Cybersecurity
+
+---Service delivery
+
+---Outsourcing
+
+---Project management
+
+-Conduct Application System Reviews (ASR).
+
+-Regularly report audit results and follow up on recommendations.
+
+
