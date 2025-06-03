@@ -1,1 +1,65 @@
-TRm NOTES 
+TRM  (Technology and Operations Risk Management Framework) NOTES 
+
+-Developed by State Bank of Pakistan (SBP).
+-Be integrat with ETGRM 
+-Based on international standards and best practices.
+-Mandatory for PSOs, PSPs, EMIs, and other regulated entities.
+-Full compliance deadline: December 31, 2025.
+
+Core Objectives
+
+-Manage technology, outsourcing, and digital fraud risks.
+-Strengthen cybersecurity and operational resilience.
+-Integrate with Enterprise Risk Management (ERM) practices.
+
+Governance Requirements
+
+-Establish a Technology Risk Management Framework (TRMF).
+-Form a Board IT Committee.
+-Appoint a Chief Information Security Officer (CISO).
+-Implement board-approved policies (e.g., InfoSec, AI/ML risk, fraud management).
+
+Cybersecurity Controls
+
+1-Inventory Management – Document all assets and dependencies.
+2-Identity & Access Management – Use MFA, role-based access, and session control.
+3-Network Security – Deploy SOC, SIEM, anti-malware, and network segmentation.
+4-Security Testing – Perform annual VA/PT and secure code reviews.
+5-Data Security – Encrypt data; protect PII and card data (PCI-DSS compliance).
+6-Patch & Change Management – Timely patching with testing.
+7-Incident Response – Notify stakeholders and SBP; conduct post-incident analysis.
+8-API Security – Enforce strong authentication and integrity measures.
+
+Fraud Risk Management
+
+-Monitor, detect, and respond to digital financial fraud.
+
+Implement:
+-Device fingerprinting
+-OTP protections
+-Limit device registrations
+-Real-time fraud trend analysis
+
+Safeguard customer data from misuse by staff or third parties.
+
+Outsourcing Guidelines
+
+-Prior SBP approval needed for material outsourcing.
+-Conduct risk-based assessments of third parties.
+-Include strict contractual clauses (service levels, data confidentiality, exit strategy).
+-Avoid concentration risk or single point of failure scenarios.
+
+Business Continuity & Disaster Recovery (BCP/DR)
+
+-Develop and test BCP annually; include cyber threat scenarios.
+-Set up DR site in a different seismic zone.
+-Conduct semi-annual DR drills.
+-Ensure compliance with RTO (e.g., 2 hours for Tier-1 PSOs) and RPO.
+
+Technology Audit
+
+-Create a risk-based audit plan.
+-Conduct annual independent audits of systems, services, and implementations.
+
+
+
